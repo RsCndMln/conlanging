@@ -6,8 +6,16 @@ Grammatik:
   - Mehrzahl
   - Collective/absout)
 
+  Ortangaben:
+  - Absolute richtungen?
+
+  Zeitformen:
+  - ich fände es sehr lustig wenn wir irgend ein verrücktes zeitsystem haben
+
+
   Personal Pronomen:
-    (Zusätzlich eine Herzlichkeits suffix {repräsentiert intimität} Anwendbar auf "wir")
+    (Zusätzlich ein Herzlichkeits suffix {repräsentiert intimität})
+    (vielleicht ist auch clusivität sinnvoll)
     
   - Ich
     - Reflexives "ich" bzw. unbestimmter adressat: Wird verwendet in reflektierender rede oder bei unbestimmten adressaten
@@ -17,8 +25,8 @@ Grammatik:
   - ihr
   - sie
 
-  Artikel:
-  - Bestimmte
+  Artikel (als Präfix):
+  - Bestimmte 
   - Unbestimmte
   - Alternative (ein anderes)
 
