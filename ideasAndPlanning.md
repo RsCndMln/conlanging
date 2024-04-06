@@ -1,3 +1,12 @@
+
+Phonetik:
+
+  consonanten:
+    ʃ,ʒ,t,k,p,r,n,ɲ,m,ʔ,l,b,x,j
+
+  Vokale:
+    i,u,a,(o)?
+
 Grammatik:
 
   Zahlwörter:
