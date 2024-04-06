@@ -17,6 +17,11 @@ Grammatik:
   - ihr
   - sie
 
+  Artikel:
+  - Bestimmte
+  - Unbestimmte
+  - Alternative (ein anderes)
+
   Diathese/Valenzalteration:
   - Passive
   - Aktive
@@ -26,9 +31,9 @@ Grammatik:
     - Passiv
     - Medium
 
-
-  Kasus:
+  Kasus/Fälle:
   - Nominative
   - Akkusative
-  - Dative
   - Genitive
+  - Transformative (beschreibt veränderung von Ort/zeit/Zustand)
+    - weg/hin vor/zurück in/aus {eventuel noch vorbei/hindurch/"crossing"}
